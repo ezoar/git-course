@@ -17,4 +17,4 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 As Lorem Ipsum said:
 
-> Lorem ipsum dolor sit amet.
+> Lorem ipsum dolor sit amet!
