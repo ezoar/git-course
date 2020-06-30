@@ -17,3 +17,6 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 As Lorem Ipsum said:
 
 > Lorem ipsum dolor sit amet!
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Lorem-Ipsum-Tekst.jpg">
+
